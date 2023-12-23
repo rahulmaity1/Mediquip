@@ -4,13 +4,13 @@ const products = [
         id: 1,
         name: "Digital Thermometer",
         price: 19.99,
-        imageUrl: "thermometer.jpg"
+        imageUrl: "medical-equipment.png"
     },
     {
         id: 2,
         name: "First Aid Kit",
         price: 39.99,
-        imageUrl: "first-aid-kit.jpg"
+        imageUrl: "first-aid-kit.png"
     },
     // Add more products as needed
 ];
